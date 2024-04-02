@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812436195773",
+    "project_id": "loginpage-8fe1e",
+    "storage_bucket": "loginpage-8fe1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812436195773:android:849427c885e794ec202ad4",
+        "android_client_info": {
+          "package_name": "com.example.madpwexp5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKxJeCeoUh3QEENn34gM29nM1SCKQtHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
